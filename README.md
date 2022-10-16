@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fhernandez1512
+- 👀 I’m interested in building realiable, resilience and scalable architectures
+- Recently got the CKAD certification
+- 🌱 I’m currently learning AWS
+- 📫 How to reach me: www.linkedin.com/in/fhrjsolarch
