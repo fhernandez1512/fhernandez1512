@@ -2,4 +2,4 @@
 - 👀 I’m interested in building realiable, resilience and scalable architectures
 - Recently got the CKAD certification
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me: www.linkedin.com/in/fhrjsolarch
+- 📫 How to reach me: https://www.linkedin.com/in/sol-arch-fhr/
